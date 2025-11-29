@@ -23,10 +23,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.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 }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: TuF3i
+          user: Peter-JXL
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
