@@ -1,6 +1,6 @@
 ## Hi Bro 😋
 
-
+![Metrics](/github-metrics.svg)
 
 <!--
 **TuF3i/TuF3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
