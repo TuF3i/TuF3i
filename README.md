@@ -1,6 +1,6 @@
 ## Hi Bro 😋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuF3i)
+[![TuF3i's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuF3i)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TuF3i/TuF3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
