@@ -1,6 +1,6 @@
 ## Hi Bro 😋 
 
-![Static Badge](https://img.shields.io/badge/language-golang-blue?logo=go) ![Static Badge](https://img.shields.io/badge/language-python-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/language-Golang-blue?logo=go) ![Static Badge](https://img.shields.io/badge/language-Python-blue?logo=python) ![Static Badge](https://img.shields.io/badge/favorite-Arduino-green?logo=arduino)
 
 ![Counter](https://count.getloli.com/@TuF3i?name=TuF3i&theme=3d-num&padding=7&offset=0&align=top&scale=0.9&pixelated=1&darkmode=auto)
 
